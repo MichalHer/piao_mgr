@@ -1,0 +1,3 @@
+Repozytorium ze zrobionymi ćwiczeniami:
+
+https://github.com/MichalHer/piao_mgr
